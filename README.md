@@ -1,6 +1,6 @@
 # TrickPaperScissors
 
-PlayingCards.io implementation of game.
+PlayingCards.io implementation of the game.
 
 *Trick taking game with changing trump suits determined by lead suit. Must follow if possible, else able to trump.*
 
