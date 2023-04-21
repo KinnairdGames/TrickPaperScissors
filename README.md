@@ -16,8 +16,8 @@ PlayingCards.io implementation of the game.
   - Move one step between -1 <-> 1 <-> 2
   - At the start of a game, every suit's value begins at 1
 
-- The winner of a trick leads the next trick.
+- In either case, the winner of a trick leads the next trick.
 
-- When all tricks are played, total score is number of points in each suit multiplied by their value.
+- When all tricks are played, calculate each player's total score by multiplying the number of points in each suit by their value.
 
 Highest total wins.
