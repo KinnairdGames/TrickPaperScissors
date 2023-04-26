@@ -6,9 +6,23 @@ PlayingCards.io implementation of the game.
 
 ![Anatomy of a card](CardAnatomy.png)
 
+### Setup
+
+- Set the value of each suit to 1, and all the current points of each player to 0
+
+- 4p: Shuffle and deal out 9 cards to each player, discarding two (may chose to reveal or discard face down)
+
 ### Rules
 
-- Each trick, the lead suit establishes the trump suit according to **Rock** / **Paper** / **Scissors** rules i.e. **rock** trumps **scissors**, which trumps **paper**, which trumps **rock**. e.g. If **Scissors** leads this hand, **rock** will be trump.
+- The game consists of a series of tricks, where each player plays one card from their hand to the table. Play continues for 9 tricks, until all cards have been played.
+
+- Each trick, the lead suit establishes the trump suit according to **Rock** / **Paper** / **Scissors** rules i.e. **rock** trumps **scissors**, which in turn trumps **paper**, which trumps **rock**. e.g. If **Scissors** leads this hand, **rock** will be trump.
+
+- Players follow clockwise around the table, and *must follow* if possible.
+
+- When each player has played a card to the trick, the winner is the player that
+  - Firstly: Played the highest *trump* suit card
+  - If no *trump*: Played the highest *lead* suit card
 
 - Winning a trick with a *lead* suit card
   - Player takes the trick and scores a number of points from the stars on the *lowest* card of the *lead* suit in that trick.
