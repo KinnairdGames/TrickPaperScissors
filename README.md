@@ -21,8 +21,8 @@ PlayingCards.io implementation of the game.
 - Players follow clockwise around the table, and *must follow* if possible.
 
 - When each player has played a card to the trick, the winner is the player that
-  - Firstly: Played the highest *trump* suit card
-  - If no *trump*: Played the highest *lead* suit card
+  1. Played the highest *trump* suit card
+  2. Or, if there was no *trump* card, played the highest *lead* suit card
 
 - Winning a trick with a *lead* suit card
   - Player takes the trick and scores a number of points from the stars on the *lowest* card of the *lead* suit in that trick.
