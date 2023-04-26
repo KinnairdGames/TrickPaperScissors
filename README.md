@@ -14,7 +14,7 @@ PlayingCards.io implementation of the game.
   - Player takes the trick and scores a number of points from the stars on the *lowest* card of the *lead* suit in that trick.
 
 - Winning a trick with a *trump* suit card
-  - Player may change the __value__ of the points of the *trump* suit
+  - Player may change the *value* of the points of the *trump* suit
   - Alter value by one step between -1 <-> 1 <-> 2
   - At the start of a game, every suit's value begins at 1
 
