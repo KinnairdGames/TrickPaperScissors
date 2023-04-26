@@ -4,6 +4,8 @@ PlayingCards.io implementation of the game.
 
 *Trick taking game with changing trump suits determined by lead suit. Must follow if possible, score points by winning tricks and change the value of those points by trumping.*
 
+![Anatomy of a card](CardAnatomy.png)
+
 ### Rules
 
 - Each trick, lead suit establishes trump suit according to **Rock** / **Paper** / **Scissors** rules i.e. **rock** trumps **scissors**, which trumps **paper**, which trumps **rock**. e.g. If **Scissors** is lead this hand, **rock** will be trump.
