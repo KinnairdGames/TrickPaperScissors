@@ -8,7 +8,7 @@ PlayingCards.io implementation of the game.
 
 ### Rules
 
-- Each trick, lead suit establishes trump suit according to **Rock** / **Paper** / **Scissors** rules i.e. **rock** trumps **scissors**, which trumps **paper**, which trumps **rock**. e.g. If **Scissors** is lead this hand, **rock** will be trump.
+- Each trick, the lead suit establishes the trump suit according to **Rock** / **Paper** / **Scissors** rules i.e. **rock** trumps **scissors**, which trumps **paper**, which trumps **rock**. e.g. If **Scissors** is lead this hand, **rock** will be trump.
 
 - Winning a trick with a *lead* suit card
   - Player takes the trick and scores a number of points from the stars on the lowest card of the *lead* suit in that trick.
