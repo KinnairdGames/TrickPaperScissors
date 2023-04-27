@@ -10,7 +10,7 @@ PlayingCards.io implementation of the game.
 
 - Set the value of each suit to 1, and all the current points of each player to 0
 
-- 4p: Shuffle and deal out 9 cards to each player, discarding two (may chose to reveal or discard face down)
+- 4p: Shuffle and deal out 9 cards to each player, discarding two (collectively chose to reveal these or discard face down)
 
 ### Rules
 
