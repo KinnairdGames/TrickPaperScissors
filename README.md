@@ -36,4 +36,4 @@ PlayingCards.io implementation of the game.
 
 - When all tricks have been played, calculate each player's total score by multiplying the number of points in each suit by the value of points in that suit.
 
-Highest sum of all three suits (multiplying number of points by their values, including negatives!) wins.
+The player with the highest sum of the scores from all three suits wins the game.
