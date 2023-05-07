@@ -4,7 +4,7 @@ PlayingCards.io implementation of the game.
 
 *Trick taking game with changing trump suits determined by lead suit. Must follow if possible, score points by winning tricks and change the value of those points by trumping.*
 
-![Anatomy of a card](CardAnatomy.png)
+![Anatomy of a card](Card_Anatomy.png)
 
 ### Setup
 
