@@ -1,6 +1,6 @@
 # TrickPaperScissors
 
-*Trick taking game with changing trump suits determined by lead suit. Must follow if possible, score points by winning tricks and change the value of those points by trumping.*
+*Trick taking game with changing trump suits determined by lead suit. Must follow if possible, score points by winning tricks and change the value of those points by trumping, both positive and negative!*
 
 ![Anatomy of a card](CardAnatomy.png)
 
