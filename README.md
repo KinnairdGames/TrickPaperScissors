@@ -12,7 +12,7 @@ Download the trick-paper-scissors.pcio file and import it into https://playingca
 
 ### Setup
 
-- Set the value of each suit to 1, and all the current points of each player to 0
+- Set the value of each suit to 1, and all the current points of each player to 0 (should be the default for a fresh room)
 
 - 4p: Shuffle and deal out 9 cards to each player, discarding two (collectively chose to reveal these or discard face down)
 
