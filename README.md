@@ -6,6 +6,10 @@ PlayingCards.io implementation of the game.
 
 ![Anatomy of a card](CardAnatomy.png)
 
+### Instructions
+
+Download the trick-paper-scissors.pcio file and import it into https://playingcards.io to create a new room.
+
 ### Setup
 
 - Set the value of each suit to 1, and all the current points of each player to 0
